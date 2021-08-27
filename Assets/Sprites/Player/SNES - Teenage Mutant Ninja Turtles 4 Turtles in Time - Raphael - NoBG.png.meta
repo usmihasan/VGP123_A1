@@ -1,0 +1,4332 @@
+fileFormatVersion: 2
+guid: 83b0f97ca346dff44aea1c34df004a0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2920059107805056319
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_0
+  - first:
+      213: -4291050263678099324
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_1
+  - first:
+      213: -2952838740876388986
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_2
+  - first:
+      213: -7282945710260450601
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_3
+  - first:
+      213: 1919242026642549269
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_4
+  - first:
+      213: -5367589882414167801
+    second: Idle_1
+  - first:
+      213: 2408244830230391256
+    second: Idle_2
+  - first:
+      213: 1210147377216398569
+    second: Idle_4
+  - first:
+      213: -5950933579579416329
+    second: Idle_3
+  - first:
+      213: 8779774298145518560
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_9
+  - first:
+      213: 394514261935740338
+    second: Idle_5
+  - first:
+      213: 6852240539027379881
+    second: Walk_1
+  - first:
+      213: 2434683104382349867
+    second: Walk_2
+  - first:
+      213: 7400895930602778400
+    second: Walk_3
+  - first:
+      213: 4669956188605783553
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_14
+  - first:
+      213: -1897964489970498596
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_15
+  - first:
+      213: -6156018030549790590
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_16
+  - first:
+      213: 5571064238572007555
+    second: Run_1
+  - first:
+      213: -1046937653945110500
+    second: Run_2
+  - first:
+      213: 1194419260785767851
+    second: Run_3
+  - first:
+      213: -7128953982705522909
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_20
+  - first:
+      213: 6616462043800161915
+    second: Flip_1
+  - first:
+      213: 2891845611974705275
+    second: Flip_2
+  - first:
+      213: 6428483612988664144
+    second: Flip_3
+  - first:
+      213: -7422490687798917888
+    second: Flip_4
+  - first:
+      213: 6339399730923496433
+    second: Flip_5
+  - first:
+      213: -2328536147228408410
+    second: Landing
+  - first:
+      213: -7530008456393461804
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_27
+  - first:
+      213: -3098211355422303574
+    second: Jump_1
+  - first:
+      213: -9186575964031755700
+    second: Jump_2
+  - first:
+      213: -5756962205422520078
+    second: Jump_3
+  - first:
+      213: 6345559685795942941
+    second: Jump_4
+  - first:
+      213: 8927580991790815064
+    second: Jump_5
+  - first:
+      213: 5949223732883193560
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_36
+  - first:
+      213: -2157724917980779866
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_37
+  - first:
+      213: 5510302298732503975
+    second: Attack_1
+  - first:
+      213: 8913416336634136678
+    second: Attack_2
+  - first:
+      213: -333898819394483163
+    second: Attack_3
+  - first:
+      213: 5286392876970537699
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_42
+  - first:
+      213: -7361707647189929981
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_43
+  - first:
+      213: -7521576594350948927
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_44
+  - first:
+      213: -4740492253525450233
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_45
+  - first:
+      213: -589265952670540223
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_46
+  - first:
+      213: -6354646684266491434
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_47
+  - first:
+      213: 6406470958760878969
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_48
+  - first:
+      213: 5217047293446755855
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_49
+  - first:
+      213: -2880187885028324823
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_50
+  - first:
+      213: -2865143194024152567
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_51
+  - first:
+      213: -6067609594059790726
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_52
+  - first:
+      213: -4388707447659859017
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_53
+  - first:
+      213: 6980286805226915271
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_54
+  - first:
+      213: 7078631142327444632
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_55
+  - first:
+      213: 3263761830891595636
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_56
+  - first:
+      213: 1066219464771605151
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_57
+  - first:
+      213: 8412352349266305771
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_58
+  - first:
+      213: 6578175216756481945
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_59
+  - first:
+      213: -7018332341319012806
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_60
+  - first:
+      213: -7539179980925455759
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_61
+  - first:
+      213: -6315889322119469971
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_62
+  - first:
+      213: -5462849638118127045
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_63
+  - first:
+      213: 7225318305736152731
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_64
+  - first:
+      213: 5934788743898833061
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_65
+  - first:
+      213: 1514758059318133105
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_66
+  - first:
+      213: 2609079893122489075
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_67
+  - first:
+      213: 8995077236458285481
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_68
+  - first:
+      213: 1800125066939799288
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_69
+  - first:
+      213: -4324607018686474018
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_70
+  - first:
+      213: -2557774573701146278
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_71
+  - first:
+      213: -7917590621178057039
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_72
+  - first:
+      213: 389701804482330820
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_73
+  - first:
+      213: -8827168560521994810
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_74
+  - first:
+      213: 7488204203953021125
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_75
+  - first:
+      213: -6992470720062678547
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_76
+  - first:
+      213: 233667893392737855
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_77
+  - first:
+      213: -6564854567898276791
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_78
+  - first:
+      213: -4489158960521009642
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_79
+  - first:
+      213: 6365525648867732752
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_80
+  - first:
+      213: -8283041381565416709
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_81
+  - first:
+      213: -5858383514147493756
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_82
+  - first:
+      213: -5125860264471584422
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_83
+  - first:
+      213: -737025507007263380
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_84
+  - first:
+      213: 1863670506207574963
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_85
+  - first:
+      213: -1667848736339165980
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_86
+  - first:
+      213: 2691386564862930543
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_87
+  - first:
+      213: 4740075809073770886
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_88
+  - first:
+      213: -8166402459639585614
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_89
+  - first:
+      213: 5268829004504034644
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_90
+  - first:
+      213: -6843720372039000858
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_91
+  - first:
+      213: -1711302084526234077
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_92
+  - first:
+      213: 841464697763196916
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_93
+  - first:
+      213: -6536591765792970506
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_94
+  - first:
+      213: 4324539901060921538
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_95
+  - first:
+      213: -5324238380588816153
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_96
+  - first:
+      213: 8539779713875226505
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_97
+  - first:
+      213: 7785102139977207362
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_98
+  - first:
+      213: -5979358750605036745
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_99
+  - first:
+      213: -4156081487817075776
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_100
+  - first:
+      213: 7557481452199809192
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_101
+  - first:
+      213: 6323463216210171596
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_102
+  - first:
+      213: -5091816605639872879
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_103
+  - first:
+      213: 7646988227494713103
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_104
+  - first:
+      213: 8069781661471283102
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_105
+  - first:
+      213: -1206759985048074582
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_106
+  - first:
+      213: -7169097334309565209
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_107
+  - first:
+      213: -4710089531849223655
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_108
+  - first:
+      213: 8906396166361155469
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_109
+  - first:
+      213: 5658359966961871107
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_110
+  - first:
+      213: -5478800376210765083
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_111
+  - first:
+      213: -7571415791365008341
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_112
+  - first:
+      213: -2810141805503073458
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_113
+  - first:
+      213: 4400356001491781033
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_114
+  - first:
+      213: -7997591048363662272
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_115
+  - first:
+      213: 4564045518113885215
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_116
+  - first:
+      213: -3006812594756508497
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_117
+  - first:
+      213: -2452691322543247701
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_118
+  - first:
+      213: 2464073031515906081
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_119
+  - first:
+      213: -1902504362638624019
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_120
+  - first:
+      213: 1069509770055726269
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_121
+  - first:
+      213: 8528052352807247485
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_122
+  - first:
+      213: -5873726021436385833
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_123
+  - first:
+      213: 8850902126796844792
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_124
+  - first:
+      213: -4670254416783405983
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_125
+  - first:
+      213: -2515966962175267441
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_126
+  - first:
+      213: -3602290179739789201
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_127
+  - first:
+      213: 174194949442002917
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_128
+  - first:
+      213: -7747587708691044346
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_129
+  - first:
+      213: -2119952998236315878
+    second: Win_1
+  - first:
+      213: 3276426137635605942
+    second: Win_2
+  - first:
+      213: 9025519193508425643
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_132
+  - first:
+      213: -462048148029151120
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_134
+  - first:
+      213: 8671480052379481516
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_135
+  - first:
+      213: 2207179050125086980
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_136
+  - first:
+      213: 8225180501766078592
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_137
+  - first:
+      213: -7937803449285518948
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_138
+  - first:
+      213: -8485747117213624223
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_139
+  - first:
+      213: -2542512206822165691
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_140
+  - first:
+      213: -5781343495883140440
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_141
+  - first:
+      213: -177476470163233077
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_142
+  - first:
+      213: -1537467940526666910
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_143
+  - first:
+      213: 1443879137784626864
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_144
+  - first:
+      213: 4684263102424727565
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_145
+  - first:
+      213: 5394699518062224009
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_146
+  - first:
+      213: -3958311682078006201
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_147
+  - first:
+      213: -191468080613031346
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_148
+  - first:
+      213: -6971675488302036901
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_149
+  - first:
+      213: -7592766127444112361
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_150
+  - first:
+      213: -261735163116539860
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_151
+  - first:
+      213: -6783310334390582456
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_152
+  - first:
+      213: -4225407154912208690
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_153
+  - first:
+      213: 4273452836246147979
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_154
+  - first:
+      213: 6594309766517657786
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_155
+  - first:
+      213: 7632927019058950876
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_156
+  - first:
+      213: 7145621383083174616
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_157
+  - first:
+      213: -7257720920884884076
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_158
+  - first:
+      213: 2594224662631740477
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_159
+  - first:
+      213: 663829509751787890
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_160
+  - first:
+      213: -6192293064251491546
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_161
+  - first:
+      213: 5764041323408206662
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_162
+  - first:
+      213: -51125455354957231
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_163
+  - first:
+      213: 8410585956340172275
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_164
+  - first:
+      213: -4197394115372633184
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_165
+  - first:
+      213: 9040662338558999153
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_166
+  - first:
+      213: -795187597090124645
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_167
+  - first:
+      213: -2950386318378902686
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_168
+  - first:
+      213: 7453301355244443210
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_169
+  - first:
+      213: -8775435597498223209
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_170
+  - first:
+      213: -1839366887050815141
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_171
+  - first:
+      213: -168513854374221891
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_172
+  - first:
+      213: 5287889608494546523
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_173
+  - first:
+      213: -3486237196561001162
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_174
+  - first:
+      213: -4772733959993595033
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_175
+  - first:
+      213: -8710213099424113866
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_176
+  - first:
+      213: -243616898126416733
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_177
+  - first:
+      213: 6191451238610081085
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_178
+  - first:
+      213: 1877767492162073002
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_179
+  - first:
+      213: 876442514334068332
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_180
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2302
+        width: 64
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2b22c66bdd977d0800000000000000
+      internalID: -2920059107805056319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2311
+        width: 65
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480ee1825802374c0800000000000000
+      internalID: -4291050263678099324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_2
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 2317
+        width: 70
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6851d0b5fc86507d0800000000000000
+      internalID: -2952838740876388986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2303
+        width: 100
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da88759677cdea90800000000000000
+      internalID: -7282945710260450601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_4
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2303
+        width: 113
+        height: 115
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aa704647482aa10800000000000000
+      internalID: 1919242026642549269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2239
+        width: 66
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70909bec07d7285b0800000000000000
+      internalID: -5367589882414167801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 2239
+        width: 63
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9ad06e9edcb6120800000000000000
+      internalID: 2408244830230391256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2239
+        width: 63
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4aad0c0ae4bc010800000000000000
+      internalID: 1210147377216398569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2239
+        width: 57
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a93350790a6da0800000000000000
+      internalID: -5950933579579416329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_9
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 2239
+        width: 63
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e37119f43608d970800000000000000
+      internalID: 8779774298145518560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 2239
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5518981a8997500800000000000000
+      internalID: 394514261935740338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2169
+        width: 41
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6124c277c081f50800000000000000
+      internalID: 6852240539027379881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2168
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22fa59426bb9c120800000000000000
+      internalID: 2434683104382349867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Walk_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2168
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f663323a345b660800000000000000
+      internalID: 7400895930602778400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2170
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e1c7a39640fc040800000000000000
+      internalID: 4669956188605783553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_15
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2170
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c00b2a5319a5e0800000000000000
+      internalID: -1897964489970498596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_16
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2170
+        width: 34
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801e2a973e619aa0800000000000000
+      internalID: -6156018030549790590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2170
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38077f08865605d40800000000000000
+      internalID: 5571064238572007555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2169
+        width: 33
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10fe9a20c78871f0800000000000000
+      internalID: -1046937653945110500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2167
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba535084dfd639010800000000000000
+      internalID: 1194419260785767851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_20
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2167
+        width: 45
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3272bb0af1ed01d90800000000000000
+      internalID: -7128953982705522909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flip_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2087
+        width: 48
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e409e5c2562db50800000000000000
+      internalID: 6616462043800161915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flip_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2089
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70460f2346e12820800000000000000
+      internalID: 2891845611974705275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flip_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2087
+        width: 30
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059eb9459cf863950800000000000000
+      internalID: 6428483612988664144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flip_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2085
+        width: 31
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c915ab040ef890800000000000000
+      internalID: -7422490687798917888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flip_5
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2086
+        width: 57
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e6eab7721af750800000000000000
+      internalID: 6339399730923496433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Landing
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2085
+        width: 46
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54bc116b06fafd0800000000000000
+      internalID: -2328536147228408410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2091
+        width: 81
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfeaf06439008790800000000000000
+      internalID: -7530008456393461804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2000
+        width: 33
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad8f0ff21f005d0800000000000000
+      internalID: -3098211355422303574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2028
+        width: 34
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4adeb155d9b28080800000000000000
+      internalID: -9186575964031755700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2036
+        width: 35
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8f07830692b10b0800000000000000
+      internalID: -5756962205422520078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2034
+        width: 33
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1218ecf9e4ff0850800000000000000
+      internalID: 6345559685795942941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_5
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2035
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85798379c9325eb70800000000000000
+      internalID: 8927580991790815064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1970
+        width: 69
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de73d7f673ef8250800000000000000
+      internalID: 5949223732883193560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_37
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1970
+        width: 70
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa2fb48e983e02e0800000000000000
+      internalID: -2157724917980779866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1929
+        width: 66
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a328f0feb6887c40800000000000000
+      internalID: 5510302298732503975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1929
+        width: 69
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668cd30dee0d2bb70800000000000000
+      internalID: 8913416336634136678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Attack_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1929
+        width: 42
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc117fac0cd5bf0800000000000000
+      internalID: -333898819394483163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1953
+        width: 108
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2fbf6205a0d5940800000000000000
+      internalID: 5286392876970537699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_43
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1953
+        width: 107
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300b7fc16e5f5d990800000000000000
+      internalID: -7361707647189929981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1857
+        width: 48
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdb1de30fdfd9790800000000000000
+      internalID: -7521576594350948927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1857
+        width: 74
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702ef106963663eb0800000000000000
+      internalID: -4740492253525450233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_46
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1897
+        width: 54
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e17d4fcb182d7f0800000000000000
+      internalID: -589265952670540223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1857
+        width: 73
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d19e2f4282cfc7a0800000000000000
+      internalID: -6354646684266491434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_48
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1786
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736cc0e46b58e850800000000000000
+      internalID: 6406470958760878969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1786
+        width: 92
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f069e4e4fdca66840800000000000000
+      internalID: 5217047293446755855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1697
+        width: 59
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac082e0648708d0800000000000000
+      internalID: -2880187885028324823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_51
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1713
+        width: 60
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902ff89f177fc38d0800000000000000
+      internalID: -2865143194024152567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1717
+        width: 70
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a766056c8358bcba0800000000000000
+      internalID: -6067609594059790726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_53
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1697
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37f1724dd2813c0800000000000000
+      internalID: -4388707447659859017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1697
+        width: 34
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c585efbdd5fed060800000000000000
+      internalID: 6980286805226915271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1697
+        width: 26
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894e17e05895c3260800000000000000
+      internalID: 7078631142327444632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1627
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477a5c1d7163b4d20800000000000000
+      internalID: 3263761830891595636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_57
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1627
+        width: 101
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92915244f8fbce00800000000000000
+      internalID: 1066219464771605151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_58
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1627
+        width: 100
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2e07f14edaeb470800000000000000
+      internalID: 8412352349266305771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1627
+        width: 78
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5c09c18f5a4b50800000000000000
+      internalID: 6578175216756481945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1555
+        width: 38
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e6b089befd99e90800000000000000
+      internalID: -7018332341319012806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_61
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1555
+        width: 75
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172b33b60c37f5790800000000000000
+      internalID: -7539179980925455759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_62
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1555
+        width: 48
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e262ef147958a0800000000000000
+      internalID: -6315889322119469971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1479
+        width: 55
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a0992923f0034b0800000000000000
+      internalID: -5462849638118127045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1479
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96d78ab7bc754460800000000000000
+      internalID: 7225318305736152731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1479
+        width: 46
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0a3113bea9c5250800000000000000
+      internalID: 5934788743898833061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_66
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1479
+        width: 76
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171415eed60850510800000000000000
+      internalID: 1514758059318133105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_67
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1400
+        width: 59
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa1e2cd650553420800000000000000
+      internalID: 2609079893122489075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_68
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1400
+        width: 77
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a96c4ea61fe4dc70800000000000000
+      internalID: 8995077236458285481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_69
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1400
+        width: 60
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6193ef5345bf810800000000000000
+      internalID: 1800125066939799288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_70
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1314
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8180a44d8ebf3c0800000000000000
+      internalID: -4324607018686474018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_71
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 1333
+        width: 53
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59540fa395f08cd0800000000000000
+      internalID: -2557774573701146278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_72
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1312
+        width: 64
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bea7bb77411f1290800000000000000
+      internalID: -7917590621178057039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_73
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1318
+        width: 61
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c08f78f9bf786500800000000000000
+      internalID: 389701804482330820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_74
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1293
+        width: 30
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd179966f89f7580800000000000000
+      internalID: -8827168560521994810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_75
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1293
+        width: 30
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0e43e9c027be760800000000000000
+      internalID: 7488204203953021125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_76
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1296
+        width: 30
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de918548de0c5fe90800000000000000
+      internalID: -6992470720062678547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1198
+        width: 43
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36861506b72e3300800000000000000
+      internalID: 233667893392737855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_78
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1211
+        width: 32
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c92567d83f4e4a0800000000000000
+      internalID: -6564854567898276791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_79
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1225
+        width: 48
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61622e1c5bd43b1c0800000000000000
+      internalID: -4489158960521009642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_80
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1230
+        width: 39
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d26650ad3e65850800000000000000
+      internalID: 6365525648867732752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1183
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfabee7bfb9bc0d80800000000000000
+      internalID: -8283041381565416709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_82
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1184
+        width: 28
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488eb31ab37d2bea0800000000000000
+      internalID: -5858383514147493756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_83
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1186
+        width: 29
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51a1e75f394dd8b0800000000000000
+      internalID: -5125860264471584422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_84
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1186
+        width: 28
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d0e60d43f85c5f0800000000000000
+      internalID: -737025507007263380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_85
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1090
+        width: 74
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbffd483761dd910800000000000000
+      internalID: 1863670506207574963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_86
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1092
+        width: 71
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7b63396c9ad8e0800000000000000
+      internalID: -1667848736339165980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_87
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1092
+        width: 76
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ee9e732d9b95520800000000000000
+      internalID: 2691386564862930543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_88
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1090
+        width: 106
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681b34895d128c140800000000000000
+      internalID: 4740075809073770886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_89
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 989
+        width: 74
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b46e4cfa3c1bae80800000000000000
+      internalID: -8166402459639585614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_90
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 992
+        width: 78
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45decbb6014ae1940800000000000000
+      internalID: 5268829004504034644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_91
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 992
+        width: 47
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecd28ac4983601a0800000000000000
+      internalID: -6843720372039000858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_92
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 991
+        width: 82
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ad6c22db3048e0800000000000000
+      internalID: -1711302084526234077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 905
+        width: 67
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe4313fab7dab00800000000000000
+      internalID: 841464697763196916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_94
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 905
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8aa2edb6c5945a0800000000000000
+      internalID: -6536591765792970506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_95
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 949
+        width: 54
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c83dbba02ad30c30800000000000000
+      internalID: 4324539901060921538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_96
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 903
+        width: 50
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8a081e6618c16b0800000000000000
+      internalID: -5324238380588816153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_97
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 834
+        width: 62
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fae917764638670800000000000000
+      internalID: 8539779713875226505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_98
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 828
+        width: 73
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e8979262d3a0c60800000000000000
+      internalID: 7785102139977207362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 830
+        width: 49
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733309575ec050da0800000000000000
+      internalID: -5979358750605036745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_100
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 830
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3161d18e1a256c0800000000000000
+      internalID: -4156081487817075776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_101
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 833
+        width: 55
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a019fae65191e860800000000000000
+      internalID: 7557481452199809192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_102
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 828
+        width: 45
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6d470ca4471c750800000000000000
+      internalID: 6323463216210171596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_103
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 762
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e666756cb3659b0800000000000000
+      internalID: -5091816605639872879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_104
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 761
+        width: 54
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f079a65074f8f1a60800000000000000
+      internalID: 7646988227494713103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_105
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 763
+        width: 70
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9715f26aaf9dff60800000000000000
+      internalID: 8069781661471283102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_106
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 762
+        width: 83
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6cd02ff2ab04fe0800000000000000
+      internalID: -1206759985048074582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_107
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 759
+        width: 87
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec474c35ff328c90800000000000000
+      internalID: -7169097334309565209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_108
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 759
+        width: 91
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91257d1a68662aeb0800000000000000
+      internalID: -4710089531849223655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_109
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 685
+        width: 59
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d878bdc0020e99b70800000000000000
+      internalID: 8906396166361155469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_110
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 685
+        width: 70
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ad022968868e40800000000000000
+      internalID: 5658359966961871107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 685
+        width: 45
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4ea4f51467f3b0800000000000000
+      internalID: -5478800376210765083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 598
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d7ece37dece690800000000000000
+      internalID: -7571415791365008341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_113
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 598
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43b38aaaee5009d0800000000000000
+      internalID: -2810141805503073458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_114
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 598
+        width: 34
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50d222874311d30800000000000000
+      internalID: 4400356001491781033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_115
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 610
+        width: 33
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a0778059d20190800000000000000
+      internalID: -7997591048363662272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_116
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 597
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c44e5a73fb65f30800000000000000
+      internalID: 4564045518113885215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_117
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 597
+        width: 63
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa42e5730e7a546d0800000000000000
+      internalID: -3006812594756508497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_118
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 597
+        width: 64
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae6020bc3a46fdd0800000000000000
+      internalID: -2452691322543247701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_119
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 598
+        width: 22
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1202020fd55223220800000000000000
+      internalID: 2464073031515906081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 534
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea3b41bc52f895e0800000000000000
+      internalID: -1902504362638624019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_121
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 534
+        width: 34
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db43bf72879a7de00800000000000000
+      internalID: 1069509770055726269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_122
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 534
+        width: 34
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e920b6e6ab95670800000000000000
+      internalID: 8528052352807247485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_123
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 534
+        width: 35
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5d058cd455c7ea0800000000000000
+      internalID: -5873726021436385833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_124
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 463
+        width: 65
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fea9791798b4da70800000000000000
+      internalID: 8850902126796844792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_125
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 465
+        width: 57
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c0dec1a5cef2fb0800000000000000
+      internalID: -4670254416783405983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 392
+        width: 47
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8dace8c06d751dd0800000000000000
+      internalID: -2515966962175267441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_127
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 392
+        width: 51
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685bb2da28120ec0800000000000000
+      internalID: -3602290179739789201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_128
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 393
+        width: 39
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef5823326dda6200800000000000000
+      internalID: 174194949442002917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 391
+        width: 59
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a945070a0b7490800000000000000
+      internalID: -7747587708691044346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 306
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f9997eaf96492e0800000000000000
+      internalID: -2119952998236315878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Win_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 302
+        width: 39
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd43928634387d20800000000000000
+      internalID: 3276426137635605942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_132
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 338
+        width: 103
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf2a8223e5114d70800000000000000
+      internalID: 9025519193508425643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_134
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 232
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078689b48a97699f0800000000000000
+      internalID: -462048148029151120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_135
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 232
+        width: 47
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5f6f60a29475870800000000000000
+      internalID: 8671480052379481516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_136
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 232
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401d366e6a971ae10800000000000000
+      internalID: 2207179050125086980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_137
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 227
+        width: 66
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0808c356616b52270800000000000000
+      internalID: 8225180501766078592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_138
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 157
+        width: 34
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c995774b1d147d190800000000000000
+      internalID: -7937803449285518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_139
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 176
+        width: 13
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168dfa0d4f19c3a80800000000000000
+      internalID: -8485747117213624223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_140
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 167
+        width: 66
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54335436e9e27bcd0800000000000000
+      internalID: -2542512206822165691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_141
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 156
+        width: 26
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2de5ba8ba84cfa0800000000000000
+      internalID: -5781343495883140440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_142
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 154
+        width: 29
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc62ee7371a798df0800000000000000
+      internalID: -177476470163233077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_143
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b4b5fcd01d9aae0800000000000000
+      internalID: -1537467940526666910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_144
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 154
+        width: 29
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beff320d60b90410800000000000000
+      internalID: 1443879137784626864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_145
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 151
+        width: 31
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00ce7e2978d10140800000000000000
+      internalID: 4684263102424727565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_146
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 167
+        width: 57
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982e11c11a2ddda40800000000000000
+      internalID: 5394699518062224009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_147
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 151
+        width: 47
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74426774f704119c0800000000000000
+      internalID: -3958311682078006201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_148
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 154
+        width: 24
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420c3d8bc4c75df0800000000000000
+      internalID: -191468080613031346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_149
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 151
+        width: 36
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b588576b412af3f90800000000000000
+      internalID: -6971675488302036901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_150
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 131
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c431f6f6311a690800000000000000
+      internalID: -7592766127444112361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_151
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 113
+        width: 5
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20b53181412e5cf0800000000000000
+      internalID: -261735163116539860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_152
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 99
+        width: 5
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843c96db037dcd1a0800000000000000
+      internalID: -6783310334390582456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_153
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 105
+        width: 5
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8501c64965c55c0800000000000000
+      internalID: -4225407154912208690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_154
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 113
+        width: 5
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8356dc76ba5e4b30800000000000000
+      internalID: 4273452836246147979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_155
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 101
+        width: 5
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab09c246bc1b38b50800000000000000
+      internalID: 6594309766517657786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_156
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 106
+        width: 4
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd27d7fceaa9de960800000000000000
+      internalID: 7632927019058950876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_157
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 26
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daab1ee9c85a2360800000000000000
+      internalID: 7145621383083174616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_158
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 84
+        width: 7
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d4cb78645674b90800000000000000
+      internalID: -7257720920884884076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_159
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 48
+        width: 25
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f8bbf599800420800000000000000
+      internalID: 2594224662631740477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_160
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 94
+        width: 5
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2715d280c65663900800000000000000
+      internalID: 663829509751787890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_161
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 48
+        width: 29
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62bbc28244e801aa0800000000000000
+      internalID: -6192293064251491546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_162
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 71
+        width: 8
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b2b606b0dfdff40800000000000000
+      internalID: 5764041323408206662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_163
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 48
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15276925bad5a4ff0800000000000000
+      internalID: -51125455354957231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_164
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 48
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f58b88bd5768b470800000000000000
+      internalID: 8410585956340172275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_165
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 48
+        width: 25
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a336e27a4cdfb5c0800000000000000
+      internalID: -4197394115372633184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_166
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17abf085f72e67d70800000000000000
+      internalID: 9040662338558999153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_167
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 48
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c85a1f71de6f4f0800000000000000
+      internalID: -795187597090124645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_168
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 52
+        width: 30
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b5ad6764f1e07d0800000000000000
+      internalID: -2950386318378902686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_169
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 52
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465843e7127f6760800000000000000
+      internalID: 7453301355244443210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_170
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 16
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795fccd71d3673680800000000000000
+      internalID: -8775435597498223209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_171
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 52
+        width: 14
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5958b5cf814976e0800000000000000
+      internalID: -1839366887050815141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_172
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 52
+        width: 10
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7ea42da8159adf0800000000000000
+      internalID: -168513854374221891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_173
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 52
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5efbcd159b526940800000000000000
+      internalID: 5287889608494546523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_174
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 52
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6355a389db56e9fc0800000000000000
+      internalID: -3486237196561001162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_175
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 62
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b632b10c7d3cdb0800000000000000
+      internalID: -4772733959993595033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_176
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 10
+        width: 62
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b1fd2b55b1f1780800000000000000
+      internalID: -8710213099424113866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_177
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 10
+        width: 51
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a474edc8bf7e9cf0800000000000000
+      internalID: -243616898126416733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_178
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 10
+        width: 51
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35918909147ce550800000000000000
+      internalID: 6191451238610081085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_179
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 10
+        width: 49
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1b815d59b2f0a10800000000000000
+      internalID: 1877767492162073002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_180
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 10
+        width: 50
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eaeecb2dfb92c00800000000000000
+      internalID: 876442514334068332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
