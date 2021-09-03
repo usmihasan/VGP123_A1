@@ -36,7 +36,7 @@ public class Pickup : MonoBehaviour
             {
                 case CollectibleType.LIFE:
                     Debug.Log("Life Collected");
-                    GameManager.instance.lives++;
+                    //GameManager.instance.lives++;
                     break;
                 case CollectibleType.POWERUP:
                     Debug.Log("Powerup Collected");
@@ -44,7 +44,7 @@ public class Pickup : MonoBehaviour
                     break;
                 case CollectibleType.SCORE:
                     Debug.Log("Score Collected");
-                    GameManager.instance.score++;
+                    //GameManager.instance.score++;
                     break;
             }
             Destroy(gameObject);

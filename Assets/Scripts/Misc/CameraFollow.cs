@@ -12,7 +12,7 @@ public class CameraFollow : MonoBehaviour
     // Update is called once per frame
     void LateUpdate()
     {
-        if (GameManager.instance.playerInstance)
+        /*if (GameManager.instance.playerInstance)
         {
             //create a variable to store the camera's x/y/z position
             Vector3 cameraTransform;
@@ -25,6 +25,6 @@ public class CameraFollow : MonoBehaviour
             cameraTransform.y = GameManager.instance.playerInstance.transform.position.y;
             cameraTransform.y = Mathf.Clamp(cameraTransform.y, minYClamp, maxYClamp);
             transform.position = cameraTransform;
-        }
+        }*/
     }
 }

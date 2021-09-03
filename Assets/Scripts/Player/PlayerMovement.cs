@@ -34,7 +34,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (jumpForce <= 0)
         {
-            jumpForce = 300;
+            jumpForce = 400;
         }
 
         if (bounceForce <= 0)
@@ -75,6 +75,19 @@ public class PlayerMovement : MonoBehaviour
         if (sr.flipX && horizontalInput > 0 || !sr.flipX && horizontalInput < 0)
             sr.flipX = !sr.flipX;
 
+        if (Input.GetButton("Fire3") && Mathf.Abs(horizontalInput) > 0)
+        {
+            anim.SetBool("run", true);
+            speed = 7.0f;
+        }
+
+        if (Input.GetButtonUp("Fire3") || Mathf.Abs(horizontalInput) == 0)
+        {
+            anim.SetBool("run", false);
+            speed = 5.0f;
+        }
+            
+
     }
 
     public void StartJumpForceChange()
@@ -97,9 +110,8 @@ public class PlayerMovement : MonoBehaviour
         //change variable above this line to new jump force value.
         yield return new WaitForSeconds(5.0f);
         //change variable back under this line to default jump force value.
-        jumpForce = 300;
+        jumpForce = 400;
         coroutineRunning = false;
     }
-
 
 }
