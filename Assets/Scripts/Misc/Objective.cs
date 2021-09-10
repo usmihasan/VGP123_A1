@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class Objective : MonoBehaviour
 {
+    //Animator anim;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -21,6 +23,7 @@ public class Objective : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             Debug.Log("objective met");
+            //anim.SetBool("win", true);
         }
     }
 }

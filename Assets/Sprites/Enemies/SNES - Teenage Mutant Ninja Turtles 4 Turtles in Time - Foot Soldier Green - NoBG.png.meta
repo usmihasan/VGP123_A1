@@ -1,7 +1,456 @@
 fileFormatVersion: 2
 guid: fe45d9e0fcd928945b19c6d38586bef3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 5331818905302639984
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_0
+  - first:
+      213: 8920256268943643343
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_1
+  - first:
+      213: -5249765938362900736
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_2
+  - first:
+      213: 8237944035365656049
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_3
+  - first:
+      213: -5646459583234451383
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_4
+  - first:
+      213: -1972777796032543200
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_5
+  - first:
+      213: -8948530105705179237
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_6
+  - first:
+      213: 1970640315736450443
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_7
+  - first:
+      213: 4443073484827636154
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_8
+  - first:
+      213: -3081398209589956453
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_9
+  - first:
+      213: 7188467781972238515
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_10
+  - first:
+      213: 5380309469583201442
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_11
+  - first:
+      213: -3258339462085373339
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_12
+  - first:
+      213: -3993214483057080354
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_13
+  - first:
+      213: 5212633142629772076
+    second: TurretDeath1
+  - first:
+      213: 8736215187250801809
+    second: TurretDeath2
+  - first:
+      213: -4278426716846164984
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_16
+  - first:
+      213: -6390712169906949216
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_17
+  - first:
+      213: 2487106716474802118
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_18
+  - first:
+      213: -4302761042076616494
+    second: TurretIdle
+  - first:
+      213: -4563355875016292864
+    second: TurretShoot1
+  - first:
+      213: 7802833548450908652
+    second: TurretShoot2
+  - first:
+      213: 3229102879126686953
+    second: TurretShoot3
+  - first:
+      213: -2878568032609679886
+    second: TurretShoot4
+  - first:
+      213: 7642242677184408949
+    second: TurretShoot5
+  - first:
+      213: 935050703114000043
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_25
+  - first:
+      213: 8779688940034634062
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_26
+  - first:
+      213: -9212561908444637123
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_27
+  - first:
+      213: 1935140562823831128
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_28
+  - first:
+      213: -6095777685894705008
+    second: Arrow
+  - first:
+      213: -9090651571831172852
+    second: ArrowUp
+  - first:
+      213: -2045327168869309185
+    second: ArrowDown
+  - first:
+      213: -7713197519398028953
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_32
+  - first:
+      213: 5361712507087348388
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_33
+  - first:
+      213: 4429263987686554579
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_34
+  - first:
+      213: -5627531173217401018
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_35
+  - first:
+      213: 1663784596973300399
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_36
+  - first:
+      213: -1683987853175344522
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_37
+  - first:
+      213: -5127590064922781324
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_38
+  - first:
+      213: 1071527012800830153
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_39
+  - first:
+      213: 3082936650823543705
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_40
+  - first:
+      213: 4497468211685823799
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_41
+  - first:
+      213: 6267584870044272935
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_42
+  - first:
+      213: 7561285291965320426
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_43
+  - first:
+      213: 8141993208391304451
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_44
+  - first:
+      213: -7337077853918602275
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_45
+  - first:
+      213: -2368195562991786808
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_46
+  - first:
+      213: -3786739747193377764
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_47
+  - first:
+      213: -1932341112232380106
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_48
+  - first:
+      213: 7733817546355116370
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_49
+  - first:
+      213: 8180051807327596712
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_50
+  - first:
+      213: -6480983069365597039
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_51
+  - first:
+      213: -6502682151480725226
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_52
+  - first:
+      213: 5501515117524453573
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_53
+  - first:
+      213: 7482389323788950240
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_54
+  - first:
+      213: -7098812431980061866
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_55
+  - first:
+      213: 2216641769342567642
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_56
+  - first:
+      213: 3159403545525401501
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_57
+  - first:
+      213: -700175350631853503
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_58
+  - first:
+      213: 1923042725122083975
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_59
+  - first:
+      213: -5284633104261040895
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_60
+  - first:
+      213: -9140325740060904779
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_61
+  - first:
+      213: -5634853893953846319
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_62
+  - first:
+      213: 7268689100077042707
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_63
+  - first:
+      213: 6618936628705695451
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_64
+  - first:
+      213: 2499215005659935399
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_65
+  - first:
+      213: 5471600104761367819
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_66
+  - first:
+      213: -788903083037316109
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_67
+  - first:
+      213: -7678491347737075436
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_68
+  - first:
+      213: -4604845231955941497
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_69
+  - first:
+      213: -3413203980728963190
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_70
+  - first:
+      213: -7980934752658332104
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_71
+  - first:
+      213: -5488328494229092228
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_72
+  - first:
+      213: -9212012122503492768
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_73
+  - first:
+      213: 417251945947479965
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_74
+  - first:
+      213: -3902532569473958659
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_75
+  - first:
+      213: 4411718816799257802
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_76
+  - first:
+      213: 5879155881037410690
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_77
+  - first:
+      213: 4572963237588296180
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_78
+  - first:
+      213: 489894778888261698
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_79
+  - first:
+      213: 7645186671071143580
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_80
+  - first:
+      213: 3820266368122766114
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_81
+  - first:
+      213: -5231808304444407857
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_82
+  - first:
+      213: 4226547206258074772
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_83
+  - first:
+      213: -1549654099528291453
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_84
+  - first:
+      213: -731684281109034995
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_85
+  - first:
+      213: -5561993664659721787
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_86
+  - first:
+      213: 7043853375351650449
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_87
+  - first:
+      213: -5748276668821216821
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_88
+  - first:
+      213: -8969301769138461536
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_89
+  - first:
+      213: -217049947619936385
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_90
+  - first:
+      213: -5517899525484892436
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_91
+  - first:
+      213: 745780800084850460
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_92
+  - first:
+      213: -9162040494798227943
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_93
+  - first:
+      213: -1486125472596064801
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_94
+  - first:
+      213: 5083430400739589674
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_95
+  - first:
+      213: -6313040513012363506
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_96
+  - first:
+      213: 2438548748704482247
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_97
+  - first:
+      213: -7436443085766106562
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_98
+  - first:
+      213: 6116214726601306604
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_99
+  - first:
+      213: 778124122733877855
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_100
+  - first:
+      213: 5344133213844141305
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_101
+  - first:
+      213: 7483492342072302899
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_102
+  - first:
+      213: 1222354259094664507
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_103
+  - first:
+      213: -9124734751126701536
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_104
+  - first:
+      213: 4922354402118554998
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_105
+  - first:
+      213: 8314452733185025605
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_106
+  - first:
+      213: -1117652451966371999
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_107
+  - first:
+      213: 1834404762602221776
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_108
+  - first:
+      213: -571413624317995142
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_109
+  - first:
+      213: -4077057142668857539
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_110
+  - first:
+      213: 7041622605006601878
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_111
+  - first:
+      213: -7136438112608694572
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_112
+  - first:
+      213: -4156058653304011132
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_113
+  - first:
+      213: -946433308140411755
+    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+      Green - NoBG_114
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,12 +490,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 35
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -75,9 +524,2540 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a6419b0d6ef940800000000000000
+      internalID: 5331818905302639984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 192
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc256d7a0dd1bcb70800000000000000
+      internalID: 8920256268943643343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 30
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f1fe981b51527b0800000000000000
+      internalID: -5249765938362900736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 192
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f59483247e035270800000000000000
+      internalID: 8237944035365656049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 192
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948d5bedceeb3a1b0800000000000000
+      internalID: -5646459583234451383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 192
+        width: 49
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026c3b6fb094f94e0800000000000000
+      internalID: -1972777796032543200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 192
+        width: 51
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97dd8bb74f60d380800000000000000
+      internalID: -8948530105705179237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 192
+        width: 43
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85e88f1dee195b10800000000000000
+      internalID: 1970640315736450443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 85
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1bb164bc7f8ad30800000000000000
+      internalID: 4443073484827636154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 192
+        width: 60
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90bdd187acac35d0800000000000000
+      internalID: -3081398209589956453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_10
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 192
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0abcf8c5192c360800000000000000
+      internalID: 7188467781972238515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_11
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 192
+        width: 49
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a45d2cd4f2baaa40800000000000000
+      internalID: 5380309469583201442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_12
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 192
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56293ccc58d08c2d0800000000000000
+      internalID: -3258339462085373339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 192
+        width: 55
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed70079a5904598c0800000000000000
+      internalID: -3993214483057080354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDeath1
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 192
+        width: 40
+        height: 38
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b20eab93ef65840800000000000000
+      internalID: 5212633142629772076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretDeath2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 192
+        width: 52
+        height: 26
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ce4752d654d3970800000000000000
+      internalID: 8736215187250801809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 104
+        width: 45
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f7d0b199ff94c0800000000000000
+      internalID: -4278426716846164984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 104
+        width: 31
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a33ee21421af47a0800000000000000
+      internalID: -6390712169906949216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_18
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 32
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cff7f1a16af38220800000000000000
+      internalID: 2487106716474802118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretIdle
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 104
+        width: 43
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d832a511a58944c0800000000000000
+      internalID: -4302761042076616494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretShoot1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 104
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: 0.64436084, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00646f56204bba0c0800000000000000
+      internalID: -4563355875016292864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretShoot2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 104
+        width: 51
+        height: 69
+      alignment: 9
+      pivot: {x: 0.6342301, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9cae865cb394c60800000000000000
+      internalID: 7802833548450908652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretShoot3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 104
+        width: 85
+        height: 64
+      alignment: 9
+      pivot: {x: 0.78898996, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec8985c5f310dc20800000000000000
+      internalID: 3229102879126686953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretShoot4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 104
+        width: 60
+        height: 61
+      alignment: 9
+      pivot: {x: 0.7013458, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5418a20a54d08d0800000000000000
+      internalID: -2878568032609679886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TurretShoot5
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 104
+        width: 53
+        height: 64
+      alignment: 9
+      pivot: {x: 0.66715455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d28ec7933be0a60800000000000000
+      internalID: 7642242677184408949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_25
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 104
+        width: 53
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6d61e09a7f9fc00800000000000000
+      internalID: 935050703114000043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 104
+        width: 51
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41b03df298b7d970800000000000000
+      internalID: 8779688940034634062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_27
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 104
+        width: 51
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38dcd721c7662080800000000000000
+      internalID: -9212561908444637123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_28
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 104
+        width: 55
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e509dc6100bda10800000000000000
+      internalID: 1935140562823831128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 64
+        width: 46
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0905e72dd72776ba0800000000000000
+      internalID: -6095777685894705008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowUp
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 50
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01182c4f8487d180800000000000000
+      internalID: -9090651571831172852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ArrowDown
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 50
+        width: 35
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e61ac6c98d93e0800000000000000
+      internalID: -2045327168869309185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 60
+        width: 8
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7693bdde8b735f490800000000000000
+      internalID: -7713197519398028953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_33
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2e5bc1e11a86a40800000000000000
+      internalID: 5361712507087348388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_34
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 64
+        width: 46
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbbc7a2128e77d30800000000000000
+      internalID: 4429263987686554579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 64
+        width: 46
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64780f1c63ef6e1b0800000000000000
+      internalID: -5627531173217401018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 48
+        width: 36
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2c5d9643f61710800000000000000
+      internalID: 1663784596973300399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_37
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 48
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672396d38f541a8e0800000000000000
+      internalID: -1683987853175344522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_38
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 48
+        width: 37
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479947ac00427d8b0800000000000000
+      internalID: -5127590064922781324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_39
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 48
+        width: 36
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca9a351424dede00800000000000000
+      internalID: 1071527012800830153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bae51cc8ac8ca20800000000000000
+      internalID: 3082936650823543705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735152a82873a6e30800000000000000
+      internalID: 4497468211685823799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7290a927b3feaf650800000000000000
+      internalID: 6267584870044272935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8af069e41fe860800000000000000
+      internalID: 7561285291965320426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_44
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3058ec55fab2ef070800000000000000
+      internalID: 8141993208391304451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbdbcbb0967d2a90800000000000000
+      internalID: -7337077853918602275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_46
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e735ceaa722fd0800000000000000
+      internalID: -2368195562991786808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_47
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cafaf434cc27bc0800000000000000
+      internalID: -3786739747193377764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_48
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63971841ff1fe25e0800000000000000
+      internalID: -1932341112232380106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_49
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2590e28351a045b60800000000000000
+      internalID: 7733817546355116370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bd0c67c1658170800000000000000
+      internalID: 8180051807327596712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_51
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 32
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c84237c3cee06a0800000000000000
+      internalID: -6480983069365597039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_52
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f7b13905d1c5a0800000000000000
+      internalID: -6502682151480725226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_53
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c88c72e9de495c40800000000000000
+      internalID: 5501515117524453573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_54
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea9d935279c6d760800000000000000
+      internalID: 7482389323788950240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_55
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b93b844b3fb7d90800000000000000
+      internalID: -7098812431980061866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_56
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad405f7e1f713ce10800000000000000
+      internalID: 2216641769342567642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_57
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97b62119c478db20800000000000000
+      internalID: 3159403545525401501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429a117a3a7846f0800000000000000
+      internalID: -700175350631853503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c0dc67b2500ba10800000000000000
+      internalID: 1923042725122083975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105304cd03639a6b0800000000000000
+      internalID: -5284633104261040895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b27f4cba2a072180800000000000000
+      internalID: -9140325740060904779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_62
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d387a9fc3afcc1b0800000000000000
+      internalID: -5634853893953846319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_63
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 9
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c88d0b9329fd460800000000000000
+      internalID: 7268689100077042707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_64
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd613d09bcf2bdb50800000000000000
+      internalID: 6618936628705695451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2bfa56ecefea220800000000000000
+      internalID: 2499215005659935399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_66
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d9a453e470feb40800000000000000
+      internalID: 5471600104761367819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba95563d04d05f0800000000000000
+      internalID: -788903083037316109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_68
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411a8373dc4807590800000000000000
+      internalID: -7678491347737075436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_69
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 14
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876d97b8ad4810c0800000000000000
+      internalID: -4604845231955941497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_70
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f63be301dd1a0d0800000000000000
+      internalID: -3413203980728963190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836ea3490260e3190800000000000000
+      internalID: -7980934752658332104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_72
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7802da105a85d3b0800000000000000
+      internalID: -5488328494229092228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_73
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b469b28cb582080800000000000000
+      internalID: -9212012122503492768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f3a042f606ac500800000000000000
+      internalID: 417251945947479965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcbc18fd4b67d9c0800000000000000
+      internalID: -3902532569473958659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_76
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f93cb3e2993d30800000000000000
+      internalID: 4411718816799257802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281326cef15f69150800000000000000
+      internalID: 5879155881037410690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1ee5306dd667f30800000000000000
+      internalID: 4572963237588296180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_79
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24014f0b4b47cc600800000000000000
+      internalID: 489894778888261698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_80
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c962fba75c8291a60800000000000000
+      internalID: 7645186671071143580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_81
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223445b6500540530800000000000000
+      internalID: 3820266368122766114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_82
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcff6a00112e467b0800000000000000
+      internalID: -5231808304444407857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_83
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494ae677a46b7aa30800000000000000
+      internalID: 4226547206258074772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b63e09ec58e7ae0800000000000000
+      internalID: -1549654099528291453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0842c0e50988d5f0800000000000000
+      internalID: -731684281109034995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_86
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1fbfe0b34dfc2b0800000000000000
+      internalID: -5561993664659721787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_87
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19875cf235bc0c160800000000000000
+      internalID: 7043853375351650449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1ee3c43d40a30b0800000000000000
+      internalID: -5748276668821216821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_89
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a42837ff83a68380800000000000000
+      internalID: -8969301769138461536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_90
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77b89df832ecfcf0800000000000000
+      internalID: -217049947619936385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_91
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee2d2ddd9b7c63b0800000000000000
+      internalID: -5517899525484892436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_92
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c173d55bfab895a00800000000000000
+      internalID: 745780800084850460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_93
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916bec966b4e9d080800000000000000
+      internalID: -9162040494798227943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_94
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5804aa1c8306be0800000000000000
+      internalID: -1486125472596064801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_95
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e318c2409fb8640800000000000000
+      internalID: 5083430400739589674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_96
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f8f31f9139368a0800000000000000
+      internalID: -6313040513012363506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_97
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3010eba2777d120800000000000000
+      internalID: 2438548748704482247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_98
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e326088d9627cc890800000000000000
+      internalID: -7436443085766106562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1751583e821e450800000000000000
+      internalID: 6116214726601306604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a17b654c37cca00800000000000000
+      internalID: 778124122733877855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_101
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4fb83f7dc2a2a40800000000000000
+      internalID: 5344133213844141305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_102
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d5398c2a4bad760800000000000000
+      internalID: 7483492342072302899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_103
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35f50be8bca6f010800000000000000
+      internalID: 1222354259094664507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_104
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a3e69b61e6e5180800000000000000
+      internalID: -9124734751126701536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_105
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6755bdcbf37bf4440800000000000000
+      internalID: 4922354402118554998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_106
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546e44f75bed26370800000000000000
+      internalID: 8314452733185025605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_107
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167333a340d4d70f0800000000000000
+      internalID: -1117652451966371999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_108
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b039996d157910800000000000000
+      internalID: 1834404762602221776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7715be065ee118f0800000000000000
+      internalID: -571413624317995142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_110
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe04241226b67c0800000000000000
+      internalID: -4077057142668857539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_111
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e77cd737ed8b160800000000000000
+      internalID: 7041622605006601878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_112
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de4668d85746fc90800000000000000
+      internalID: -7136438112608694572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_113
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4864020bca6b256c0800000000000000
+      internalID: -4156058653304011132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Foot Soldier
+        Green - NoBG_114
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 8
+        width: 7
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59461b0bbe79dd2f0800000000000000
+      internalID: -946433308140411755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

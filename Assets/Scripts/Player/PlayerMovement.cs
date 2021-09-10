@@ -14,6 +14,9 @@ public class PlayerMovement : MonoBehaviour
     public int jumpForce;
     public int bounceForce;
 
+    public int score = 0;
+    public int lives = 3;
+
     bool coroutineRunning;
 
     public bool isGrounded;
@@ -112,6 +115,17 @@ public class PlayerMovement : MonoBehaviour
         //change variable back under this line to default jump force value.
         jumpForce = 400;
         coroutineRunning = false;
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Squish" && !isGrounded)
+        {
+            collision.gameObject.GetComponentInParent<EnemyWalker>().IsSquished();
+            rb.velocity = Vector2.zero;
+            rb.AddForce(Vector2.up * bounceForce);
+            Destroy(collision.gameObject);
+        }
     }
 
 }

@@ -21,7 +21,7 @@ public class PlayerFire : MonoBehaviour
         anim = GetComponent<Animator>();
 
         if (projectileSpeed <= 0)
-            projectileSpeed = 7.0f;
+            projectileSpeed = 12.0f;
 
         if (!spawnPointLeft || !spawnPointRight || !projectilePrefab)
             Debug.Log("Unity inspector values not set");
