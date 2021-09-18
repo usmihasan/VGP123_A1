@@ -1756,7 +1756,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.3337627, b: 0.5754717, a: 1}
+  m_Color: {r: 0.020870427, g: 0.37428832, b: 0.6320754, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -1899,7 +1899,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseSound: {fileID: 0}
-  soundFXMixer: {fileID: 0}
+  soundFXMixer: {fileID: 24300002, guid: 57e2a8abdaa11fb47a7b829ff980f1d2, type: 2}
+  startGame: {fileID: 8300000, guid: a2847a9b965de75418c84a39e624ce01, type: 3}
+  hearts: []
   startButton: {fileID: 1668142614}
   quitButton: {fileID: 1929683628}
   settingsButton: {fileID: 338978229}

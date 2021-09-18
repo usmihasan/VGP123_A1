@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Objective : MonoBehaviour
 {
@@ -24,6 +25,7 @@ public class Objective : MonoBehaviour
         {
             Debug.Log("objective met");
             //anim.SetBool("win", true);
+            SceneManager.LoadScene("WinScreen");
         }
     }
 }

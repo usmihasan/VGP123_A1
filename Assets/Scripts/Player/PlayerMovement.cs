@@ -171,6 +171,11 @@ public class PlayerMovement : MonoBehaviour
             GameManager.instance.lives--;
             Destroy(collision.gameObject);
         }
+
+        if (collision.gameObject.tag == "Enemy" && isGrounded)
+        {
+            GameManager.instance.lives--;
+        }
     }
 
     public void CollectibleSound(AudioClip pickupAudio)

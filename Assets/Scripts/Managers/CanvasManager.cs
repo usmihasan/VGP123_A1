@@ -9,7 +9,9 @@ public class CanvasManager : MonoBehaviour
     [Header("Audio")]
     public AudioClip pauseSound;
     public AudioMixerGroup soundFXMixer;
+    public AudioClip startGame;
     AudioSource pauseSoundAudio;
+    AudioSource startGameAudio;
 
     [Header("Images")]
     public Image[] hearts;
@@ -39,7 +41,19 @@ public class CanvasManager : MonoBehaviour
     void Start()
     {
         if (startButton)
+        {
             startButton.onClick.AddListener(() => GameManager.instance.StartGame());
+            
+            if (!startGameAudio)
+            {
+                startGameAudio = gameObject.AddComponent<AudioSource>();
+                startGameAudio.outputAudioMixerGroup = soundFXMixer;
+                startGameAudio.clip = startGame;
+                startGameAudio.loop = false;
+            }
+            else
+                startGameAudio.Play();
+        }
 
         if (quitButton)
             quitButton.onClick.AddListener(() => GameManager.instance.QuitGame());

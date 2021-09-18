@@ -678,6 +678,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pauseSound: {fileID: 8300000, guid: 958dde2c77374ed4aad748fef86d5937, type: 3}
   soundFXMixer: {fileID: 24300002, guid: 57e2a8abdaa11fb47a7b829ff980f1d2, type: 2}
+  startGame: {fileID: 0}
   hearts:
   - {fileID: 1469658914}
   - {fileID: 1681888494}
@@ -703,7 +704,7 @@ AudioSource:
   m_GameObject: {fileID: 418531180}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 24300002, guid: 57e2a8abdaa11fb47a7b829ff980f1d2, type: 2}
   m_audioClip: {fileID: 8300000, guid: f9098def722a4844caaca34f85ae58da, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.2
