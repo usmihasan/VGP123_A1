@@ -400,7 +400,7 @@ TextureImporter:
     second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_136
   - first:
       213: 8225180501766078592
-    second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_137
+    second: Life
   - first:
       213: -7937803449285518948
     second: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_138
@@ -3391,13 +3391,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES - Teenage Mutant Ninja Turtles 4 Turtles in Time - Raphael - NoBG_137
+      name: Life
       rect:
         serializedVersion: 2
-        x: 188
-        y: 227
-        width: 66
-        height: 66
+        x: 189
+        y: 228
+        width: 64
+        height: 64
       alignment: 7
       pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

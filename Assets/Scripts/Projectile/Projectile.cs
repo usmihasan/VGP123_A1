@@ -8,6 +8,7 @@ public class Projectile : MonoBehaviour
     public float speed;
     public float lifetime;
 
+
     // Start is called before the first frame update
     void Start()
     {
@@ -35,8 +36,10 @@ public class Projectile : MonoBehaviour
             Destroy(gameObject);
         }
 
+        
     }
 
+    /*
     private void OnCollisionExit2D(Collision2D collision)
     {
         
@@ -61,5 +64,5 @@ public class Projectile : MonoBehaviour
     {
         
     }
-
+    */
 }

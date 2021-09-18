@@ -52,6 +52,11 @@ public class EnemyWalker : MonoBehaviour
         {
             sr.flipX = !sr.flipX;
         }
+
+        /*if (collision.gameObject.tag == "Player")
+        {
+            GameManager.instance.lives--;
+        }*/
     }
 
     public void TakeDamage()

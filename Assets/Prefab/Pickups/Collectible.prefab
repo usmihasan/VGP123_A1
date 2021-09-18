@@ -97,6 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentCollectible: 1
+  pickupSound: {fileID: 8300000, guid: 25e2db172190cea4bb88810c4b26ecb5, type: 3}
 --- !u!58 &7544715455580365767
 CircleCollider2D:
   m_ObjectHideFlags: 0
